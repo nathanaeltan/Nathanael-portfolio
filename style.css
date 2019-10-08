@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#title {
+    font-size: 3rem;
+}
+ul {
+    font-size: 1.5rem;
+}
+a {
+    color: black;
+}
+.navbar {
+    background-color: white;
+}
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('./blank-composition-data-373076.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+  }

@@ -30,6 +30,9 @@ a {
     background-repeat: no-repeat;
     width: 100%;
   }
+  svg {
+      width: 100%;
+  }
   #logo path:nth-child(1) {
 	stroke-dasharray: 303.21929931640625;
     stroke-dashoffset: 303.21929931640625;

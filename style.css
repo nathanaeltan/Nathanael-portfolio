@@ -146,6 +146,10 @@ a {
     
 }
 
+.pro1 {
+    border-radius: 4px;
+}
+
 @keyframes line-animation {
 	to {
 		stroke-dashoffset: 0;
@@ -159,4 +163,5 @@ a {
 
 	to {
 		fill: black;
-	}
+    }
+}

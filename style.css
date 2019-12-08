@@ -29,6 +29,7 @@ a {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
+    
   }
   svg {
       width: 100%;
@@ -164,4 +165,18 @@ a {
 	to {
 		fill: black;
     }
+}
+
+@media (max-width: 375px) {
+  #title {
+    font-size: 1rem;
+  }
+
+  .nav-item {
+    font-size: 1rem;
+  }
+}
+
+.pro1 {
+  height: 255.31px;
 }
